@@ -1,0 +1,23 @@
+Employee: CEreira Jr, JEse, Position: Active - has less than 10 hours between shifts but greater than 1.
+
+Employee: PaAXE, KyXe, Position: Active - Worked more than 14 hours in a single shift
+
+Employee: PerkiWs, MarraWce, Position: Active - has less than 10 hours between shifts but greater than 1.
+
+Employee: CEMMa, Jessica, Position: Active - has less than 10 hours between shifts but greater than 1.
+
+Employee: CaraGiXXa, AWMhEWy, Position: Active - has less than 10 hours between shifts but greater than 1.
+
+Employee: DeXgadiXXE REdarMe, ChrisMiaW S, Position: Active - has less than 10 hours between shifts but greater than 1.
+
+Employee: DeXgadiXXE REdarMe, ChrisMiaW S, Position: Active - Worked more than 14 hours in a single shift
+
+Employee: DeXgadiXXE REdarMe, ChrisMiaW S, Position: Active - has less than 10 hours between shifts but greater than 1.
+
+Employee: HaCiXMEW, DeaWMe DevEW, Position: Active - has less than 10 hours between shifts but greater than 1.
+
+Employee: HAWMer, ViWceWM De PaAX, Position: Active - has less than 10 hours between shifts but greater than 1.
+
+Employee: REdrigAez, GraWdEW AWgeX, Position: Active - has less than 10 hours between shifts but greater than 1.
+
+Employee: ViXXa, AXfredE AieXXE, Position: Active - has less than 10 hours between shifts but greater than 1.
